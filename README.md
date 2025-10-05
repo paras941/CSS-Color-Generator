@@ -42,3 +42,6 @@ Open index.html in a browser.
 Click Generate Palette to create new colors.
 
 Click the copy icon next to any color to copy its hex code.
+
+
+
