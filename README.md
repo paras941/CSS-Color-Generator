@@ -24,10 +24,13 @@ Click the Generate Palette button to create random colors.
 
 Colors appear in boxes with their hex codes below.
 
+
 +------------+  +------------+  +------------+  +------------+  +------------+
 |   #FFD700  |  |   #4FC3F7  |  |   #91E991  |  |   #DFEC64  |  |   #C879D4  |
 |   Copy ⬇   |  |   Copy ⬇   |  |   Copy ⬇   |  |   Copy ⬇   |  |   Copy ⬇   |
 +------------+  +------------+  +------------+  +------------+  +------------+
+
+
 
 3️⃣ Copy Hex Code
 
