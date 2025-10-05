@@ -2,7 +2,7 @@ CSS Color Generator 🎨
 
 A simple and interactive color palette generator built with HTML, CSS, and JavaScript. Generate random colors and copy their hex codes easily.
 
-Features
+* Features
 
 Generate a palette of 5 random colors.
 
