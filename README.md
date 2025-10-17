@@ -25,7 +25,7 @@ Click the Generate Palette button to create random colors.
 
 Clicking the copy icon temporarily changes it to a checkmark ✅ as feedback.
 
-[ Copy Icon ] --> [ ✅ ] --> Reverts back after 1.5s
+[ Copy Icon ] --> [ ✅ ] --> Reverts back after 1.5s.
 
 Technologies Used
 
@@ -42,6 +42,3 @@ Open index.html in a browser.
 Click Generate Palette to create new colors.
 
 Click the copy icon next to any color to copy its hex code.
-
-
-
